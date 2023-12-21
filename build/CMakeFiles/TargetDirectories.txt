@@ -1,4 +1,0 @@
-/home/lpss/Projects/KPI/kursach/part4/build/CMakeFiles/mylib.dir
-/home/lpss/Projects/KPI/kursach/part4/build/CMakeFiles/myprogram.dir
-/home/lpss/Projects/KPI/kursach/part4/build/CMakeFiles/edit_cache.dir
-/home/lpss/Projects/KPI/kursach/part4/build/CMakeFiles/rebuild_cache.dir
